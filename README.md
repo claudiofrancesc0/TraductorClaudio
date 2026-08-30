@@ -1,0 +1,2 @@
+# TraductorClaudio
+Script Termux
